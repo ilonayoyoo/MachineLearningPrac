@@ -16,3 +16,15 @@ Here is a summary of some of the notation you will encounter.
 |  $w$  |  parameter: weight                                 | `w`    |
 |  $b$           |  parameter: bias                                           | `b`    |     
 | $f_{w,b}(x^{(i)})$ | The result of the model evaluation at $x^{(i)}$ parameterized by $w,b$: $f_{w,b}(x^{(i)}) = wx^{(i)}+b$  | `f_wb` | 
+
+
+Tools
+In this lab you will make use of:
+
+NumPy, a popular library for scientific computing
+Matplotlib, a popular library for plotting data
+
+import numpy as np
+import matplotlib.pyplot as plt
+plt.style.use('./deeplearning.mplstyle')
+
