@@ -30,3 +30,4 @@ m	Number of training examples	m
   parameterized by  𝑤,𝑏
  :  𝑓𝑤,𝑏(𝑥(𝑖))=𝑤𝑥(𝑖)+𝑏
  	f_wb
+
